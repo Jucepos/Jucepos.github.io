@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ANarrative Review of Applications, Evidence, and Outlook
+title: A Narrative Review of Applications, Evidence, and Outlook
 subtitle: FDA-Approved AI Solutions in Dental Imaging
 comments: true
 mathjax: true
@@ -29,11 +29,12 @@ The workflow is simple: the practice captures a radiograph as usual, uploads it 
 | Calculus deposits | Bitewing | Moderate |
 | Anatomical landmarks | CBCT / Panoramic | Emerging |
 
-![Schematic overview of mainclinical domains in dental imaging](/images/Dental_imaging.jpg)
+![Schematic overview of mainclinical domains in dental imaging](/images/Dental_imaging.png)
 
 ## Performance and limitations
 
 A 2024 meta-analysis found that AI models in dental imaging achieve an overall diagnostic accuracy of around 82%, comparable to — and sometimes exceeding — unassisted human examiners for specific tasks like interproximal caries detection.
+
 That said, performance varies considerably by task and image quality. Dataset bias is a real concern — models trained on images from specific populations may underperform in different clinical settings. Explainability also remains limited: most tools return a bounding box or heatmap, but clinicians often need more context to trust and act on AI findings.
 
 ## Why this matters
@@ -43,4 +44,5 @@ Coming from a clinical dental background and now studying health data science, w
 ## References
 
 [1] Shujaat S, Aljadaan H, Alrashid H, Aboalela AA, Riaz M. FDA-Approved AI Solutions in Dental Imaging: A Narrative Review of Applications, Evidence, and Outlook. Int Dent J. 2025;76(1):109315. doi:10.1016/j.identj.2025.109315. PMC12775797.
+
 [2] Deep Learning Applications in Dental Image-Based Diagnostics: A Systematic Review. PMC. 2024. PMC12193449.
