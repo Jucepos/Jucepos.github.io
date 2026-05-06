@@ -4,6 +4,10 @@ title: About you
 subtitle: A brief personal description
 ---
 
+### Education
+- Dentistry degree - Universidad Nacional de Córdoba, Argentina (2008 - 2014)
+- Master in Health Data Science  (2025 - present)
+
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Dentist (2015 - 2023)
+- Data Analyst - Minsait (2024 - present)
