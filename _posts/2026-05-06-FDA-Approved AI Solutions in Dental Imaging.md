@@ -21,6 +21,7 @@ The workflow is simple: the practice captures a radiograph as usual, uploads it 
 
 ## What can these tools detect?
 
+
 | FINDING | IMAGE TYPE | EVIDENCE |
 | :------ |:--- | :--- |
 | Dental caries | Bitewing / periapical | Strong |
